@@ -1,3 +1,5 @@
+#Test for loading the neurological data for the ML course
+
 import nibabel as nib
 import matplotlib.pyplot as plt
 import os
